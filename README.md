@@ -8,6 +8,11 @@ It is just a heck of lot easier working with my local setup rather than directly
 
 - Image classification in R: https://rpubs.com/Argaadya/image_conv 
 
-# Notes
+# Learning
 
+- Multiline commenting in Kaggle notebooks: ctrl + ' 
 - It is not possible to feed a sparse pixel matrix to Keras (at least i cannot figure out how to do it...) 
+- Use transfer learning: efficientnet etc. 
+- See preprocessing notebook for how to do ROI extraction using imager
+- When competitions are very computationally intensive (large amount of data on which we perform a lot of computations), R can be a real limitation (even though reticutlate works really well) 
+
