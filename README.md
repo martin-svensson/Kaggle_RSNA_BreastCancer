@@ -15,4 +15,6 @@ It is just a heck of lot easier working with my local setup rather than directly
 - Use transfer learning: efficientnet etc. 
 - See preprocessing notebook for how to do ROI extraction using imager
 - When competitions are very computationally intensive (large amount of data on which we perform a lot of computations), R can be a real limitation (even though reticutlate works really well) 
+- EDA library DataExplorer was very useful - highly recommend
+- "Installing" libraries and packages in submission notebook when the competition does not allow internet: Install packages in a seperate notebook (with internet) and export enviornment (see Notebook "RSNA-Libs")
 
